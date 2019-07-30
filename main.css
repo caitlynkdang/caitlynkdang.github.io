@@ -1,7 +1,29 @@
 body {
   padding: 20px;
+  /* black background, white text */
   color: #d6d6d6;
   background-color: #383838;
+  /* black white, black text */
+  /* color: #383838;
+  background-color: #d6d6d6; */
   max-width: 700px;
   margin: auto;
+}
+
+img {
+  max-width: 700px;
+}
+
+.circular--portrait {
+  position: relative;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
 }
