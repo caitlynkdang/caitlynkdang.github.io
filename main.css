@@ -11,8 +11,9 @@ body {
 }
 
 img {
-  max-width: 700px;
-  margin: auto;
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
 }
 
 .circular--portrait {
