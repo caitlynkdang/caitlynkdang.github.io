@@ -1,3 +1,5 @@
 ![](images/name.png){width=250px}
+<!-- # Dang, Caitlyn -->
+<!-- # Caitlyn Dang  -->
 
-### [Home :house:](index.html) | [Books :books:](books.html) | [Non-books :computer:](nonbooks.html) | [Posts :memo:](posts.html)
+#### [Home :house:](index.html) [Books :books:](books.html) [Non-books :computer:](nonbooks.html) [Posts :memo:](posts.html)
