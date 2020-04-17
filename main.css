@@ -19,3 +19,27 @@ a[href^='mailto\:']::before {
 blockquote {
   border-left-color: rgba(3, 147, 3, 1);
 }
+
+body {
+  font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif;
+  font-weight: lighter;
+  font-size: 13pt;
+  line-height: 1.5;
+}
+
+h1 {
+  font-weight: 900;
+  line-height: 1.25;
+  margin-top: auto;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 900;
+  line-height: 1.25;
+}
+
+code {
+  padding: 3px;
+  font-size: 12px;
+}
