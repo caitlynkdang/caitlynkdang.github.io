@@ -1,6 +1,6 @@
 ## Welcome!
 
-This is my personal website where you'll find a variety of content that I care enough about to post. Most of the content is for my own record keeping and for easy sharing to my family and friends. If neither family nor a friend, I hope you find something worthwhile!
+This is my personal website where you'll find a variety of content that I care enough about to post. Most of the content is for my own record keeping and for easy sharing. I hope you find something worthwhile!
 
 ## A *very* brief autobiography
 
