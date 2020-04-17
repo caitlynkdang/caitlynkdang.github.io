@@ -3,10 +3,19 @@ nav, footer {
   text-align: center;
 }
 
+nav ul {
+  padding: 0px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 1%;
+}
+
 a[href^='mailto\:']::before {
     content: '';
 }
 
 blockquote {
-  border-left-color: rgba(101, 69, 165, 1);
+  border-left-color: rgba(3, 147, 3, 1);
 }
