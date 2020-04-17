@@ -1,5 +1,3 @@
-With my free time this semester, I'm trying to read as much as possible! 
-
 ## Need to buy (support local bookstores!)  :shopping_cart:
 
 - The Glass Castle by Jeannette Walls | #memoir #family

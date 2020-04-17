@@ -6,3 +6,9 @@ nav, footer {
 a[href^='mailto\:']::before {
     content: '';
 }
+
+blockquote {
+  border-left-color: rgba(255, 0, 0, 0.6);
+  margin-inline-start: 30px;
+  margin-inline-end: 30px;
+}
