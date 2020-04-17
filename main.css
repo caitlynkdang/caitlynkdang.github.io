@@ -1,0 +1,8 @@
+nav, footer {
+  width: 100%;
+  text-align: center;
+}
+
+a[href^='mailto\:']::before {
+    content: '';
+}
