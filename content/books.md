@@ -35,7 +35,8 @@ The **5-star rating system** should be taken with a grain of salt! I tend to do 
 
    > Everyone on earth, they'd tell us, was carrying around an unseen history, and that alone deserved some tolerance.
 
-5. Educated by Tara Westover <br>#memoir #education | :star::star::star::star::star:  
+5. Educated by Tara Westover <br> #memoir #education | :star::star::star::star::star:
 
-  > Curiosity is a luxury reserved for the financially secure.
+   > Curiosity is a luxury reserved for the financially secure
 
+   
