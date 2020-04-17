@@ -39,13 +39,12 @@ The **5-star rating system** should be taken with a grain of salt! I tend to do 
 
 4. Becoming by Michelle Obama
 
-  \#feminism #politics #memoir | :star::star::star::star:
+   \#feminism #politics #memoir |:star::star::star::star:
 
-  > Everyone on earth, they'd tell us, was carrying around an unseen history, and that alone deserved some tolerance.
+   > Everyone on earth, they'd tell us, was carrying around an unseen history, and that alone deserved some tolerance.
 
 5. Educated by Tara Westover
 
-   \#memoir #education | :star::star::star::star::star:
+  \#memoir #education | :star::star::star::star::star:
 
-   > Curiosity is a luxury reserved for the financially secure.
-
+  > Curiosity is a luxury reserved for the financially secure.
