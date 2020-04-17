@@ -8,6 +8,8 @@ make:
 	pandoc -f markdown+emoji -t html -o books-content.html content/books.md
 	# nonbooks.html
 	pandoc -f markdown+emoji -t html -o nonbooks-content.html content/nonbooks.md
+	# posts.html
+	pandoc -f markdown+emoji -t html -o posts-content.html content/posts.md
 
 	# Concatenate html files with header/sep/footer
 	# index.html
@@ -19,9 +21,12 @@ make:
 	# nonbooks.html
 	cat skeleton/header.html nav.html skeleton/sep.html \
 		nonbooks-content.html skeleton/footer.html > nonbooks.html
+	# posts.html
+	cat skeleton/header.html nav.html skeleton/sep.html \
+		posts-content.html skeleton/footer.html > posts.html
 
 	# Remove html files
-	rm nav.html books-content.html nonbooks-content.html index-content.html
+	rm nav.html books-content.html nonbooks-content.html posts-content.html index-content.html
 
 push:
 	git add --all
