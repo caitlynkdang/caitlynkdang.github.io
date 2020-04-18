@@ -3,11 +3,11 @@ nav, footer {
   text-align: center;
 }
 
-nav ul {
+nav, footer, ul {
   padding: 0px;
 }
 
-nav li {
+nav, footer, li {
   display: inline-block;
   padding: 0 1%;
 }
