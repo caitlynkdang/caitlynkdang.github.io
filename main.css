@@ -20,7 +20,7 @@ blockquote {
   border-left-color: rgba(3, 147, 3, 1);
 }
 
-/* body {
+body {
   font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif;
   font-weight: lighter;
 }
@@ -38,4 +38,4 @@ h2, h3, h4, h5, h6 {
 code {
   padding: 3px;
   font-size: 12px;
-} */
+}

@@ -1,4 +1,6 @@
-## Need to buy (support local bookstores!)  :shopping_cart:
+Interested in buying a new book? **Support local bookstores** by ordering from <a href="https://bookshop.org/" target="_blank">Bookshop</a>.
+
+## Need to buy :shopping_cart:
 
 - The Glass Castle by Jeannette Walls | `#memoir` `#family`
 - No Man Knows My History: The Life of Joseph Smith by Fawn Brodie | `#biography` `#religion`
