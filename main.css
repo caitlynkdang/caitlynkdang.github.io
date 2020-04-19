@@ -3,11 +3,11 @@ nav, footer {
   text-align: center;
 }
 
-nav, footer, ul {
+nav, footer {
   padding: 0px;
 }
 
-nav, footer, li {
+nav, footer {
   display: inline-block;
   padding: 0 1%;
 }
@@ -38,4 +38,13 @@ h2, h3, h4, h5, h6 {
 code {
   padding: 3px;
   font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: none;
 }
