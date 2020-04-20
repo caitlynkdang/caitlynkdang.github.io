@@ -1,20 +1,21 @@
 Interested in buying a new book? **Support local bookstores** by ordering from <a href="https://bookshop.org/" target="_blank">Bookshop</a>.
 
-## Need to buy :shopping_cart:
+## On my bedside table :book:
 
-- The Glass Castle by Jeannette Walls | `#memoir` `#family`
-- No Man Knows My History: The Life of Joseph Smith by Fawn Brodie | `#biography` `#religion`
+- Between the World and Me by Ta-Nehisi Coates | `#race`  `#biography`
 
 ## On the shelf :books:
 
 - Joseph Smith: Rough Stone Rolling by Richard L. Bushman | `#biography` `#religion`
 - Into the Wild by Jon Krakauer | `#biography` `#wilderness`
 
-## On my bedside table :book:
+## Want to buy :shopping_cart:
 
-- Between the World and Me by Ta-Nehisi Coates | `#race`  `#biography`
+- The Glass Castle by Jeannette Walls | `#memoir` `#family`
+- No Man Knows My History: The Life of Joseph Smith by Fawn Brodie | `#biography` `#religion`
+- Talking to Strangers by Malcolm Gladwell
 
-## Recently finished :star:
+## Finished Reading :star:
 
 The **5-star rating system** should be taken with a grain of salt! I tend to do a lot of research on books I decide to read, so they end up being great reads. The quotes are favorite excerpts. 
 
