@@ -22,6 +22,8 @@ The **5-star rating system** should be taken with a grain of salt! I tend to do 
 
 1. Playing the Whore: The Work of Sex Work by Melissa Gira Grant<br>`#feminism` `#politics` | :star::star::star:
 
+   > ... by obsessively displaying dirty pictures, filmed evidence, confessions, and exhibits, the prostitution trial reveals itself as structured around the very fetishism it sets itself to isolate and punish.
+
 2. The Cost of Living by Deborah Levy <br>`#feminism` `#politics` ​|​ :star::star::star::star:
 
    > Did I mock the dreamer in my mother and then insult her for having no dreams?
