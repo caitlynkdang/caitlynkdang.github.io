@@ -3,15 +3,15 @@ Interested in buying a new book? **Support local bookstores** by ordering from <
 ## On my bedside table :book:
 
 - Between the World and Me by Ta-Nehisi Coates | `#race`  `#biography`
+- Joseph Smith: Rough Stone Rolling by Richard L. Bushman | `#biography` `#religion`
 
 ## On the shelf :books:
 
-- Joseph Smith: Rough Stone Rolling by Richard L. Bushman | `#biography` `#religion`
+- The Glass Castle by Jeannette Walls | `#memoir` `#family`
 - Into the Wild by Jon Krakauer | `#biography` `#wilderness`
 
 ## Want to buy :shopping_cart:
 
-- The Glass Castle by Jeannette Walls | `#memoir` `#family`
 - No Man Knows My History: The Life of Joseph Smith by Fawn Brodie | `#biography` `#religion`
 - Talking to Strangers by Malcolm Gladwell
 
