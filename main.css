@@ -21,6 +21,25 @@ nav, footer {
   padding: 0 1%;
 }
 
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+nav ul {
+  padding: 0px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 1%;
+}
+
 .menu {
   font-weight: normal;
 }
