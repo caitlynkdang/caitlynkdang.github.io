@@ -3,7 +3,7 @@
 <h4 class="menu">
 - [Home](index)
 - [Books](books)
-- [Non-books](nonbooks.html)
-- [Posts](posts.html)
+- [Non-books](nonbooks)
+- [Posts](posts)
 <!-- - [Thoughts](thoughts.html) -->
 </h4>
