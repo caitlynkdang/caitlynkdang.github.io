@@ -5,5 +5,5 @@
 - [Books](books.html)
 - [Non-books](nonbooks.html)
 - [Posts](posts.html)
-- [Thoughts](thoughts.html)
+<!-- - [Thoughts](thoughts.html) -->
 </h4>
