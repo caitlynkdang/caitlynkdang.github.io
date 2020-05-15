@@ -29,7 +29,7 @@ make:
 		posts-content.html skeleton/footer.html > posts.html
 	# thoughts.html
 	cat skeleton/header.html nav.html skeleton/sep.html \
-		posts-thoughts.html skeleton/footer.html > thoughts.html
+		thoughts-content.html skeleton/footer.html > thoughts.html
 
 	# Remove html files
 	rm nav.html books-content.html nonbooks-content.html posts-content.html index-content.html thoughts-content.html
