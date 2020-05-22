@@ -1,7 +1,3 @@
-## Cottonwood Canyon, Utah :desert:
-
-
-
 ## How I manage my money (the little I have) :moneybag:
 
 *April 17, 2020*
