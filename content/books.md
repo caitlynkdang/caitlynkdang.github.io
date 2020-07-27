@@ -7,7 +7,6 @@
 
 ## Want to buy :shopping_cart:
 
-- No Man Knows My History: The Life of Joseph Smith by Fawn Brodie | `#biography` `#religion`
 - Talking to Strangers by Malcolm Gladwell
 - Into the Wild by Jon Krakauer | `#biography` `#wilderness`
 
