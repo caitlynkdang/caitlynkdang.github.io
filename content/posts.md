@@ -29,7 +29,7 @@ Anyhow, here’s a breakdown of what I use:
 
 <hr>
 
-## How I built this website :hammer_and_wrench:
+## How I built this website :hammer:
 
 *April 16, 2020*
 
