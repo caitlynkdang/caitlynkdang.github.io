@@ -6,7 +6,7 @@
 
 ## On the shelf :books:
 
-## Want to buy :shopping_cart:
+## Want to buy :shopping:
 
 - Talking to Strangers by Malcolm Gladwell
 - Into the Wild by Jon Krakauer | `#biography` `#wilderness`

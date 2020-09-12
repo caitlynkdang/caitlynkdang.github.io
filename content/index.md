@@ -20,7 +20,7 @@ I’m starting my first post-grad job as a Financial Analyst at Microsoft! It’
 
 ### 10 year plan?
 
-I’m writing this to hold myself accountable. I will move overseas and experience life/work outside of the US! :crossed_fingers:
+I’m writing this to hold myself accountable. I will move overseas and experience life/work outside of the US!
 
 
 
