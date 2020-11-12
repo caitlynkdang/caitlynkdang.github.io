@@ -10,7 +10,7 @@
 - What the Buddha Taught by Walpola Rahula Thero | `#religion`
 - Under the Banner of Heave by Jon Krakauer | `#religion` 
 
-## Want to buy :shopping:
+## Want to buy :shopping_cart:
 
 - How the South Won the Civil War: Oligarchy, Democracy, and the Continuing Fight for the Soul of America by Heather Cox Richardson | `#democracy` `#politics`
 - Hidden Valley Road by Robert Kolker | `#biography`
