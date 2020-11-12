@@ -1,15 +1,19 @@
 ## On my bedside table :book:
 
 - Ethics in the Real World by Peter Singer | `#ethics`
-- Steve Jobs by Walter Isaacson | `#biography` `#tech`
-- Joseph Smith: Rough Stone Rolling by Richard L. Bushman | `#biography` `#religion`
+- I Know Why the Caged Bird Sings by Maya Angelou | `#memoir` `#race`
 
 ## On the shelf :books:
 
+- Steve Jobs by Walter Isaacson | `#biography` `#tech`
+- Joseph Smith: Rough Stone Rolling by Richard L. Bushman | `#biography` `#religion`
+- What the Buddha Taught by Walpola Rahula Thero | `#religion`
+- Under the Banner of Heave by Jon Krakauer | `#religion` 
+
 ## Want to buy :shopping:
 
-- Talking to Strangers by Malcolm Gladwell
-- Into the Wild by Jon Krakauer | `#biography` `#wilderness`
+- How the South Won the Civil War: Oligarchy, Democracy, and the Continuing Fight for the Soul of America by Heather Cox Richardson | `#democracy` `#politics`
+- Hidden Valley Road by Robert Kolker | `#biography`
 
 ## Finished Reading :star:
 
