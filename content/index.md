@@ -4,17 +4,17 @@ This is my personal website where you'll find a variety of content that I care e
 
 ## A *very* brief autobiography
 
-:house_with_garden: Fort Lauderdale, Florida
+:girl: she/her/hers
 
-:mortar_board: Harvard College
+:house: Fort Lauderdale, Florida
+
+:round_pushpin: Cambridge, MA
+
+:mortar_board: Statistics & Computer Science secondary @ Harvard
 
 :round_pushpin: Seattle, WA
 
-:briefcase: Microsoft
-
-I'm from sunny ~~California~~ Florida–born and raised. My pronouns are she/her/hers. I recently graduated Harvard College where I studied Statistics with a secondary (fancy word for minor) in Computer Science. I have ~~two dogs,~~ no pets, a cute little sis, and a big brother. I took a cross-country road trip from Florida to Washington (received a ticket in Alabama :cry:) to move to Seattle! 
-
-
+:briefcase: Finance @ Microsoft
 
 
 
