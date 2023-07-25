@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the whiteglass theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Welcome!
 
-You can find the source code for whiteglass at GitHub:
-[yous](https://github.com/yous) /
-[whiteglass](https://github.com/yous/whiteglass)
+This is my personal website where you’ll find a variety of content that I care enough about to write down. Most of the content is for my own record-keeping and for easy sharing. I hope you find something worthwhile!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## A very brief autobiography
 
+☕ I love coffee, cooking, and nature!
 
-[jekyll-organization]: https://github.com/jekyll
+👧 she/her/hers
+
+📍 Florida → Boston → Seattle → Los Angeles
+
+👩🏻‍💻 Data Scientist @ [Glue](https://glue.co/) - Series A Start-Up & previously at Microsoft. 
+
+🎓 Statistics + CS @ Harvard
