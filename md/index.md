@@ -1,10 +1,10 @@
 # Caitlyn Dang
 
- [:book: reading-list](/books.html) 	 [:microscope:data-science](/data-science.html) 	
-
 Welcome! This is my personal website where you’ll find a variety of content that I care enough about to write down. Most of the content is for my own record-keeping and for easy sharing. I hope you find something worthwhile. :smile:
 
-## A very brief autobiography
+ [:book: reading-list](/books.html) 	 [:microscope:stats-notes](/stats-notes.html) 	
+
+##### A very brief autobiography
 
 :coffee: I love coffee, cooking, and experiences!
 
